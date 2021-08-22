@@ -1,4 +1,3 @@
-![SageMaker](https://github.com/aws/amazon-sagemaker-examples/raw/master/_static/sagemaker-banner.png)
 
 
 # GOVHACK 2021: PROJECT BetterTas
@@ -19,6 +18,9 @@ We looked at various data sets provided by the council like the Principal Bicycl
 Our solution, BetterTas is a portal that can collect data from these various data sets and run machine learning algorithims on AWS SageMaker to identify these gaps that currently exist. 
 The data will be accessible to planners, engineers, and builders who will be able to use Digital Twin to model different scenarios, test the feasibility of proposals, troubleshoot potential issues, and share information across sectors and workplaces more easily.
 These can help make critical data driven decisions when it comes to urban planning and investment based decisions for the council. Not only this, but the model can also utilise AWS Rekognition, that can be feeded photogrammetric data to analyse the current situation of, for example, car parking spaces and the ML Model can predict the most efficient ways of constructing these in the city.
+
+![SageMaker](https://github.com/aws/amazon-sagemaker-examples/raw/master/_static/sagemaker-banner.png)
+
 
 Energy consumption, waste management, security monitoring, mobility improvements, and infrastructure management are all areas that can be improved through the execution of digital twins.
 
