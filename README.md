@@ -22,10 +22,10 @@ These can help make critical data driven decisions when it comes to urban planni
 ![SageMaker](https://github.com/aws/amazon-sagemaker-examples/raw/master/_static/sagemaker-banner.png)
 
 
+
 Energy consumption, waste management, security monitoring, mobility improvements, and infrastructure management are all areas that can be improved through the execution of digital twins.
 
 Tasmania, known as the battery of the nation can leverage the twin for marketing various renewable energy projects to companies, bringing in capital funding and jobs, truly making it a mega city in the Southern Hemisphere.
-![image](https://user-images.githubusercontent.com/26267990/130340755-72c0a645-4bd5-4a2a-8684-f6b7c1316378.png)
 
 
 We forked the github repo from AWS: https://github.com/aws/amazon-sagemaker-examples to do a POC on the data sets made available.
