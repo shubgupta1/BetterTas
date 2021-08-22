@@ -1,6 +1,32 @@
 ![SageMaker](https://github.com/aws/amazon-sagemaker-examples/raw/master/_static/sagemaker-banner.png)
 
-# Amazon SageMaker Examples
+
+# GOVHACK 2021: PROJECT BetterTas
+
+Challenge: https://hackerspace.govhack.org/challenges/artificial_intelligence_and_machine_learning_for_a_digital_twin![image](https://user-images.githubusercontent.com/26267990/130340759-e33d3c00-244e-4caf-abfc-e7a05e2f049e.png)
+
+
+The City of Hobart is developing a Digital Twin that will contain high resolution photogrammetric data and allow integration with diverse datasets.
+This is Shub, Mahek, Sai and Amit and we are Team SMAD.
+We have devised a solution, "BetterTas" that can develop some useful use cases for this digital twin, leveraging the power of AI and Machine Learning.
+
+We looked at various data sets provided by the council like the Principal Bicycle Network, Street Parking Occupancy, Car Parks, Public Transport, etc to do some analysis. Analysing these data sets supported the argument pointed out in the City Councils Report like
+1.Hobart needed to move away from a concentrated city to a more expanded people oriented city.
+2. Parking in all parts of the city to parking near the edges of the cbd.
+3. From buses in all streets to an efficient public transport system.
+4. Leverage the abundance in renewable power in Hobart.
+
+Our solution, BetterTas is a portal that can collect data from these various data sets and run machine learning algorithims on AWS SageMaker to identify these gaps that currently exist. 
+The data will be accessible to planners, engineers, and builders who will be able to use Digital Twin to model different scenarios, test the feasibility of proposals, troubleshoot potential issues, and share information across sectors and workplaces more easily.
+These can help make critical data driven decisions when it comes to urban planning and investment based decisions for the council. Not only this, but the model can also utilise AWS Rekognition, that can be feeded photogrammetric data to analyse the current situation of, for example, car parking spaces and the ML Model can predict the most efficient ways of constructing these in the city.
+
+Energy consumption, waste management, security monitoring, mobility improvements, and infrastructure management are all areas that can be improved through the execution of digital twins.
+
+Tasmania, known as the battery of the nation can leverage the twin for marketing various renewable energy projects to companies, bringing in capital funding and jobs, truly making it a mega city in the Southern Hemisphere.
+![image](https://user-images.githubusercontent.com/26267990/130340755-72c0a645-4bd5-4a2a-8684-f6b7c1316378.png)
+
+
+We forked the github repo from AWS: https://github.com/aws/amazon-sagemaker-examples to do a POC on the data sets made available.
 
 Example Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using Amazon SageMaker.
 
